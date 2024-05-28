@@ -1,0 +1,1 @@
+# test-stryker-nodejs
